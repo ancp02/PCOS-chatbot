@@ -3,7 +3,7 @@ from telegram.ext import Updater, CommandHandler, CallbackContext
 import os
 
 #getting token from environment variable for security
-TOKEN = os.getenv("7906573095:AAHVYKbVai-hY6bSmterqIjOdu1iwCnMjmc")
+TOKEN = os.getenv("8099554639:AAHPOoT2uWuV9Oek-Lv6n9fQs_CPHl6Hmbc")
 
 # --- Command Handlers ---
 def start(update: Update, context: CallbackContext):
