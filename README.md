@@ -11,6 +11,6 @@ This is a Description of PCOS chatbot in telegram. I'll update further processes
 
 4/April/2025 - My supervisor adviced me to make it run with LLM and higher stuff like REG. To make it think beyond LLM. 
 
-
+5/April/2025 - I started PyV2 which work with REG rule. 
 
 TO BE CONTINUE! UNTIL COMPLEETE.😗🕷️
