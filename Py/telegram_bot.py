@@ -4,6 +4,8 @@ import os
 
 #getting token from environment variable for security
 TOKEN = os.getenv("BOT_TOKEN")
+print(f"🔍 DEBUG BOT_TOKEN is: {TOKEN}")
+
 
 # --- Command Handlers ---
 def start(update: Update, context: CallbackContext):
