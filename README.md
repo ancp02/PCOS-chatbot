@@ -13,4 +13,6 @@ This is a Description of PCOS chatbot in telegram. I'll update further processes
 
 5/April/2025 - I started PyV2 which work with REG rule. 
 
+21/September/2025 - No update so far due to personal stuffs. 
+
 TO BE CONTINUE! UNTIL COMPLEETE.😗🕷️
