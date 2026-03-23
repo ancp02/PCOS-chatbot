@@ -19,5 +19,17 @@ This is a Description of PCOS chatbot in telegram. I'll update further processes
 ### September2025
 21/September/2025 - No update so far due to personal stuffs but figuring out on PyV2 that actually works as chatbot with it's own LLM.
 
+### October, November, December 2025
+During that Period, I tried my best to learn about REG flow and collect the necessary data. 
 
-TO BE CONTINUE! UNTIL COMPLEETE.😗🕷️
+### January 2026
+My laptop brokeXD
+
+### February 2026
+I start working on **PyV2's chatbot with REG** in my local machine with ollama and it's start alive with some imperfections. So I keep traing the model. 
+
+### March 2026
+6/March/2026 - It's working. It won't answer the questions that is not related to PCOS. 
+23/March/2026 - I finalize the code and push all the files to my repo.
+
+Peace✌️🕷️
