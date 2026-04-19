@@ -33,3 +33,5 @@ I start working on **PyV2's chatbot with REG** in my local machine with ollama a
 23/March/2026 - I finalize the code and push all the files to my repo.
 
 Peace✌️🕷️
+
+see my new machine learning data for Lifestyle Predicition project on my profile. 
